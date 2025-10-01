@@ -2,7 +2,7 @@
 A repository to store my Python Data Science projects.
 
 ## Data Fetching
-My interest in high frequency time-series data and its lack of availability on the internet inspired me to learn data-fetching tools, which I have applied in the following projects:
+My interest in high frequency time-series data and the limited availability of such datasets on the internet inspired me to learn data-fetching tools, which I have applied in the following projects:
 - [K-Pop Release Database with Daily Analytics](https://github.com/mjgarciamoran/kpop_release_database) - 07/2025
 - [Hearthstone Battlegrounds Leaderboard Database](https://github.com/mjgarciamoran/hearthstone_bgs_db_S11) - 08/2025
 
