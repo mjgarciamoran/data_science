@@ -3,9 +3,8 @@ A repository to store my __Python-based Data Science projects__, including both 
 
 ## Data Fetching
 My interest in __high frequency time-series data__ and the limited availability of such datasets on the internet inspired me to learn data-fetching tools, which I have applied in the following projects:
-- [K-Pop Release Database with Daily Analytics](https://github.com/mjgarciamoran/kpop_release_database) - 07/2025
-- [Hearthstone Battlegrounds Leaderboard Database S11](https://github.com/mjgarciamoran/hearthstone_bgs_db_S11) - 08/2025 - Currently not working
-- [Hearthstone Battlegrounds Leaderboard Database S12](https://github.com/mjgarciamoran/hearthstone_bgs_db_S12) - 12/2025
+- [K-Pop Release Database with Daily Analytics](https://github.com/mjgarciamoran/kpop_release_database) - Start: 07/2025 - Ongoing
+- [Hearthstone Battlegrounds Leaderboard Databases](https://github.com/mjgarciamoran/hs_bgs_db_hub) - Start: 08/2025 - Ongoing
 
 These are improved versions of the projects, now running on virtual machines that automate the process and fetch data at high frequencies:  
 &nbsp;&nbsp;&nbsp;&nbsp;▸ K-Pop → once a day  
